@@ -12,6 +12,7 @@ public class App {
     System.out.println("환영합니다");
     System.out.println();
 
+    
     java.util.Scanner keyboardInput = new java.util.Scanner(System.in);
 
     String title = "";
